@@ -1,0 +1,4 @@
+#change kafka url here
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
